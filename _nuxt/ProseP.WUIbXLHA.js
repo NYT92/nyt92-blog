@@ -1,0 +1,1 @@
+import{k as n,b as t,c as o,a3 as c}from"./entry.HgV1vu57.js";const r={};function a(e,s){return t(),o("p",null,[c(e.$slots,"default",{},void 0,!0)])}const d=n(r,[["render",a],["__scopeId","data-v-6df55f0e"]]);export{d as default};
